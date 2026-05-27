@@ -1,4 +1,4 @@
-## Hi there 👋
+## olá 👋 / Hi there 👋 / Hola 👋
 
 <!--
 **Ruiz53/Ruiz53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🐍 Meu Jogo da Cobrinha!
+## 🐍 O Jogo da Cobrinha!
 
 ![Gráfico da Cobrinha](https://raw.githubusercontent.com/Ruiz53/Ruiz53/output/github-contribution-grid-snake.svg)
